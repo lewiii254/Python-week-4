@@ -1,0 +1,6 @@
+Welcome to My Program
+Today it's gonna be awesome
+I have learnt alot on how:
+Python provides multiple ways to read file contents
+Closing Files
+Writing & Appending to Files
