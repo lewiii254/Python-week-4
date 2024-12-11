@@ -1,1 +1,4 @@
-We add the content of that file
+Hello Everyone Welcome to my Python Programs
+ Append() Allows Adding Text without Deleting 
+ write() overwrites the content 
+ Hello world
